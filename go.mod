@@ -1,8 +1,6 @@
 module github.com/apibrew/apibrew
 
-go 1.23.0
-
-toolchain go1.23.9
+go 1.24
 
 require (
 	github.com/aws/aws-sdk-go v1.50.19
@@ -79,7 +77,7 @@ require (
 	github.com/invopop/yaml v0.1.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
-	github.com/klauspost/compress v1.18.0 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.10 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
